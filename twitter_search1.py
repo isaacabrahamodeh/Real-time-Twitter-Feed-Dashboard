@@ -5,7 +5,7 @@ datetime = datetime.now().strftime("%Y_%m_%d_%I:%M:%S")
 
 # To set your environment variables in your terminal run the following line:
 # export 'BEARER_TOKEN'='<your_bearer_token'
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAOrLaAEAAAAAQKgS6f2EsFmAUgcizV0VJZmTHiw%3DjaXTpTwS7FcoPpGQXPUwKsQ30L2uTcjiZxDc1FZrL9OglrfQUm'
+bearer_token =
 
 search_url = "https://api.twitter.com/2/tweets/search/recent"
 
