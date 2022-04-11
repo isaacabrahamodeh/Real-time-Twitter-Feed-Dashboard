@@ -6,9 +6,7 @@ datetime = datetime.now().strftime("%Y_%m_%d_%I:%M:%S")
 
 # To set your environment variables in your terminal run the following line:
 # export 'BEARER_TOKEN'='<your_bearer_token'
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAAOrLaAEAAAAAQKgS6f2EsFmAUgcizV0VJZmTHiw%3DjaXTpTwS7FcoPpGQXPUwKsQ30L2uTcjiZxDc1FZrL9OglrfQUm'
-conn_string="DefaultEndpointsProtocol=https;AccountName=eyezikstorage;AccountKey=n4vdBUmV1o/K488xRA0IKDaWpgNlMD94Fd8P1/wn2msKehXMy+sJPbDnsPV3RvU+JifrMTVimH4Iz/BZKV2NSA==;EndpointSuffix=core.windows.net"
-
+bearer_token =
 search_url = "https://api.twitter.com/2/tweets/search/recent"
 
 # Optional params: start_time,end_time,since_id,until_id,max_results,next_token,
